@@ -3,7 +3,3 @@ This was an attempt to create an Inventory System using C++ and the Allegro Game
 This was done primarily to familiarize myself with the Allegro Framework and the creation of a game engine
 and to learn things about creating an inventory system to use in original ideas.
 
-# Controls
-* Arrow keys/WASD to move around
-* I to open up inventory
-* E to interact with the Props
